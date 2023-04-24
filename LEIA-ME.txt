@@ -1,0 +1,5 @@
+No Superglue a pasta imc2022 foi removida para permitir subida no Github.
+
+A pasta dumb_demo_sequence tem as sequências extraídas.
+
+Para rodar a aplicação é necessário configurar o ambiente venv ou conda.
